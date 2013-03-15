@@ -1,0 +1,1 @@
+"cat".each_char.with_index {|el,index| puts "#{index}: #{el}"}

@@ -1,0 +1,5 @@
+x = Hash.new
+p x[0]
+
+y = Hash.new("apoorv")
+p y[0]

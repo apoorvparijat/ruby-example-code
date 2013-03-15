@@ -1,0 +1,13 @@
+* About to connect() to localhost port 80 (#0)
+*   Trying ::1...
+* Connection refused
+*   Trying 127.0.0.1...
+* connected
+* Connected to localhost (127.0.0.1) port 80 (#0)
+> GET / HTTP/1.1
+Host: localhost
+Accept: */*
+User-Agent: Mozilla
+
+* Empty reply from server
+* Connection #0 to host localhost left intact
